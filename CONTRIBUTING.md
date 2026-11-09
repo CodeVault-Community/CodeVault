@@ -4,7 +4,7 @@ Thank you for considering a contribution! CodeVault is a local-first snippet lib
 
 ## Before you start
 
-1. Check the existing [issues](https://github.com/imanr236/CodeVault/issues) to see whether the bug or idea has already been reported.
+1. Check the existing [issues](https://github.com/CodeVault-Community/CodeVault/issues) to see whether the bug or idea has already been reported.
 2. For a substantial change, open an issue first so we can discuss the approach before you spend time implementing it.
 3. Keep changes focused. Small, reviewable pull requests are easier to test and maintain.
 
@@ -13,7 +13,7 @@ Thank you for considering a contribution! CodeVault is a local-first snippet lib
 Requirements: Node.js 18 or newer and npm.
 
 ```bash
-git clone https://github.com/imanr236/CodeVault.git
+git clone https://github.com/CodeVault-Community/CodeVault.git
 cd CodeVault
 npm install
 npm run dev
